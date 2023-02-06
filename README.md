@@ -1,6 +1,6 @@
 # Blockwise SSL
 
-A PyTorch implementation for the paper [***Blockwise Self-Supervised Learning at Scale***](https://arxiv.org/abs/).
+A PyTorch implementation for the paper [***Blockwise Self-Supervised Learning at Scale***](https://arxiv.org/abs/2302.01647).
 
 ## Execution
 
@@ -18,7 +18,7 @@ The script trains 4 different linear evaluation heads, one for each of the diffe
   author={Siddiqui, Shoaib Ahmed and Krueger, David and LeCun, Yann and Deny, Stéphane},
   journal={arXiv preprint},
   year={2022},
-  url={https://arxiv.org/abs/}
+  url={https://arxiv.org/abs/2302.01647}
 }
 ```
 

@@ -10,6 +10,12 @@ The default hyperparameters refers to our best setting, including noise injectio
 For testing based on the linear evaluation protocol, use `eval.sh`.
 The script trains 4 different linear evaluation heads, one for each of the different blocks of the model.
 
+## Pretrained Checkpoint
+
+Our main model (***Simultaneous Blockwise Training (1x1 CbE + GSP)***, without noise addition) is available to be downloaded from [***Google Drive***](https://drive.google.com/drive/folders/1HFgSjJT0LW5H2E5m4v0ThCzGSXa25zxt).
+
+The model achieves a final accuracy of ***70.15%*** (from the output of block-4).
+
 ## Citation
 
 ```

@@ -12,19 +12,24 @@ The script trains 4 different linear evaluation heads, one for each of the diffe
 
 ## Pretrained Checkpoint
 
-Our main model (***Simultaneous Blockwise Training (1x1 CbE + GSP)***, without noise addition) is available to be downloaded from [***Google Drive***](https://drive.google.com/drive/folders/1HFgSjJT0LW5H2E5m4v0ThCzGSXa25zxt).
+Our main model i.e., ***Simultaneous Blockwise Training (1x1 CbE + GSP)***, without noise addition, is available to be downloaded from [***here***](https://drive.google.com/drive/folders/1o65G5_fDG4nsbu5TMXxwn-53RETrOonC).
 
 The model achieves a final accuracy of ***70.15%*** (from the output of block-4).
+
+The end-to-end trained Barlow Twins model w/ GSP (300 epochs) which served as the target for our experiments can be downloaded from [***here***](https://drive.google.com/drive/folders/1NtoDYU7ZiFe2LQTt8z33vFoUclMBC3Nm).
 
 ## Citation
 
 ```
-@article{siddiqui2022localssl,
+@article{
+  siddiqui2024blockwise,
   title={Blockwise Self-Supervised Learning at Scale},
-  author={Siddiqui, Shoaib Ahmed and Krueger, David and LeCun, Yann and Deny, Stéphane},
-  journal={arXiv preprint},
-  year={2022},
-  url={https://arxiv.org/abs/2302.01647}
+  author={Shoaib Siddiqui and David Krueger and Yann LeCun and Stephane Deny},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
+  year={2024},
+  url={https://openreview.net/forum?id=M2m618iIPk},
+  note={}
 }
 ```
 

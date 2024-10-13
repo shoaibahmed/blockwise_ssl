@@ -12,7 +12,7 @@ The script trains 4 different linear evaluation heads, one for each of the diffe
 
 ## Pretrained Checkpoint
 
-Our main model i.e., ***Simultaneous Blockwise Training (1x1 CbE + GSP)***, without noise addition, is available to be downloaded from [***here***](https://drive.google.com/drive/folders/1o65G5_fDG4nsbu5TMXxwn-53RETrOonC)(Google Drive) or [***here***](https://www.dropbox.com/scl/fo/jef2rd2zb2xloap83qxma/ACf6LKVv0ShPJzDDoZBeD78?rlkey=q5rozt8q2wc0wkn6qfx8dpb7u&e=2&dl=0) (Dropbox).
+Our main model i.e., ***Simultaneous Blockwise Training (1x1 CbE + GSP)***, without noise addition, is available to be downloaded from [***here***](https://drive.google.com/drive/folders/1o65G5_fDG4nsbu5TMXxwn-53RETrOonC) (Google Drive) or [***here***](https://www.dropbox.com/scl/fo/jef2rd2zb2xloap83qxma/ACf6LKVv0ShPJzDDoZBeD78?rlkey=q5rozt8q2wc0wkn6qfx8dpb7u&e=2&dl=0) (Dropbox).
 
 The model achieves a final accuracy of ***70.15%*** (from the output of block-4).
 
